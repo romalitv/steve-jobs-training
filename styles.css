@@ -25,11 +25,11 @@ table {
     margin-left: auto;
     margin-right: auto; 
     width: 75%;
-    height: 1000px;
+    height: 900px;
 }
 #main-content {
     width: 66%;
-    height: 1000px;
+    height: 900px;
     float:left;
 }
 #side-content {
@@ -106,4 +106,22 @@ background-color: aliceblue;
     font-size: 14px;
     font-family: 'Lato', sans-serif;
     text-align: center;
+}
+footer {
+    background-color: lightgrey;
+    width: 66%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+a:link {
+    color: rgb(24, 163, 182);
+}
+a:hover {
+    color: blue;
 }
